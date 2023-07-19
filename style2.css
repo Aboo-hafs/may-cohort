@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+#sectionone{
+    background-color: black;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+
+#sectionthree{
+    text-align: center;
+}
+
+#columnone{
+border: solid red;
+}
+
+.first-child{
+    color: red;
+}
+
+#sectionfour{
+    text-align: center;
+    font-size: large;
+}
+
+#sectionfive{
+    text-align: center;
+    font-size: large;
+}
+
+.list{
+    list-style: none;
+}

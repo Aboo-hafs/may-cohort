@@ -1,0 +1,46 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.white{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid black;
+}
+
+.green{
+    background-color:#6cae5f;
+height: 25rem;
+padding-top: 6rem;
+}
+/* 
+.bg{
+    text-align: center;
+    padding-top: 7rem;
+    color:white;
+    background-color: black;
+    width: 100%
+} */
+.smallwin{
+        display: flex;
+        margin: auto;
+        width: 15%;
+        border: 3px solid black;
+        padding: 10px;
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding-top: 20px;
+        border-radius: 1rem;
+      }
+
+      .btn{
+        text-align: center;
+        margin-top: 20px;
+      }
+      .cod{
+        color: blue;
+      }
